@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["async_main",""],["main",""]],"mod":[["cli","Provides the [`CliOptions`] struct that contains all the CLI options that can be passed to the binary."],["run",""]]});

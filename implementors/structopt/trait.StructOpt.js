@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["full_node"] = [{"text":"impl StructOpt for <a class=\"enum\" href=\"full_node/cli/enum.CliOptions.html\" title=\"enum full_node::cli::CliOptions\">CliOptions</a>","synthetic":false,"types":["full_node::cli::CliOptions"]},{"text":"impl StructOpt for <a class=\"struct\" href=\"full_node/cli/struct.CliOptionsRun.html\" title=\"struct full_node::cli::CliOptionsRun\">CliOptionsRun</a>","synthetic":false,"types":["full_node::cli::CliOptionsRun"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

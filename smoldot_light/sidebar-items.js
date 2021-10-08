@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["ffi",""]],"struct":[["AddChainConfig","See [`Client::add_chain`]."],["ChainId","Chain registered in a [`Client`]."],["Client",""]]});

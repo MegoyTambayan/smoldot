@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["smoldot_light"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.55.0/core/ops/arith/trait.Add.html\" title=\"trait core::ops::arith::Add\">Add</a>&lt;<a class=\"struct\" href=\"https://doc.rust-lang.org/1.55.0/core/time/struct.Duration.html\" title=\"struct core::time::Duration\">Duration</a>&gt; for <a class=\"struct\" href=\"smoldot_light/ffi/struct.Instant.html\" title=\"struct smoldot_light::ffi::Instant\">Instant</a>","synthetic":false,"types":["smoldot_light::ffi::Instant"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["smoldot_light"] = [{"text":"impl FusedFuture for <a class=\"struct\" href=\"smoldot_light/ffi/struct.Delay.html\" title=\"struct smoldot_light::ffi::Delay\">Delay</a>","synthetic":false,"types":["smoldot_light::ffi::timers::Delay"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

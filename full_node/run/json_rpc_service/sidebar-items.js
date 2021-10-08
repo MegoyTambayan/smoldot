@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Config","Configuration for a [`JsonRpcService`]."],["JsonRpcBackground",""],["JsonRpcService","Running JSON-RPC service. Holds a server open for as long as it is alive."]]});
